@@ -1,23 +1,25 @@
-[
-  {
-    "idx": 1,
-    "USERNAME": "YG1ee",
-    "NICKNAME": "YG",
-    "CONTENT": "안녕하세요",
-    "DATE": "2022-02-22"
-  },
-  {
-    "idx": 2,
-    "USERNAME": "YG1ee",
-    "NICKNAME": "YG",
-    "CONTENT": "반갑습니다",
-    "DATE": "2022-02-23"
-  },
-  {
-    "idx": 3,
-    "USERNAME": "YG1ee",
-    "NICKNAME": "YG",
-    "CONTENT": "Hello, World!",
-    "DATE": "2022-02-24"
-  }
-]
+{
+  "tweets": [
+    {
+      "idx": 1,
+      "USERNAME": "YG1ee",
+      "NICKNAME": "YG",
+      "CONTENT": "안녕하세요",
+      "DATE": "2022-02-22"
+    },
+    {
+      "idx": 2,
+      "USERNAME": "YG1ee",
+      "NICKNAME": "YG",
+      "CONTENT": "반갑습니다",
+      "DATE": "2022-02-23"
+    },
+    {
+      "idx": 3,
+      "USERNAME": "YG1ee",
+      "NICKNAME": "YG",
+      "CONTENT": "Hello, World!",
+      "DATE": "2022-02-24"
+    }
+  ]
+}
