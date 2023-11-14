@@ -5,21 +5,21 @@
       "USERNAME": "YG1ee",
       "NICKNAME": "YG",
       "CONTENT": "안녕하세요",
-      "DATE": "2022-02-22"
+      "DATE": "2022-02-22 12:34:56"
     },
     {
       "idx": 2,
       "USERNAME": "YG1ee",
       "NICKNAME": "YG",
       "CONTENT": "반갑습니다",
-      "DATE": "2022-02-23"
+      "DATE": "2022-02-23 13:45:07"
     },
     {
       "idx": 3,
       "USERNAME": "YG1ee",
       "NICKNAME": "YG",
       "CONTENT": "Hello, World!",
-      "DATE": "2022-02-24"
+      "DATE": "2022-02-24 14:56:18"
     }
   ]
 }
